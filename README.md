@@ -18,7 +18,7 @@ AWS Training & Certification. (2020). [AWS Cloud Practitioner Essentials](https:
 
 | Course | Description |
 |--------|-------------|
-<!-- | [Introduction](https://github.com/fadhilhaka/Basic-AWS-Cloud/tree/main/introduction) | Intro to AWS-Cloud | -->
+| [Introduction](https://github.com/fadhilhaka/Basic-AWS-Cloud/tree/main/introduction) | Introduction to Amazon Web Services |
 
 ## Intention
 
