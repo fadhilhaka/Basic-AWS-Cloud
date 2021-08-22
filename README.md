@@ -22,6 +22,7 @@ AWS Training & Certification. (2020). [AWS Cloud Practitioner Essentials](https:
 | [Network](https://github.com/fadhilhaka/Basic-AWS-Cloud/tree/main/network) | AWS Network |
 | [Database](https://github.com/fadhilhaka/Basic-AWS-Cloud/tree/main/database) | Introduction to Storage and Database |
 | [Security](https://github.com/fadhilhaka/Basic-AWS-Cloud/tree/main/security) | Cloud Security |
+| [Migration](https://github.com/fadhilhaka/Basic-AWS-Cloud/tree/main/migration) | Migration to Cloud |
 
 ## Intention
 
